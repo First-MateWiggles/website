@@ -52,7 +52,7 @@ The ORB seems to be very comfortable in the 15g ~ 30g range.  Some people have g
 
 As for the water ratio, people have reported success with everything from 1:2 to 1:8, but a good starting point is 1:4.
 
-The workflow of the Rapid Brewer is such that you tend to use all of the water that you add to the reservoir.  Most of it will pass through, but some water will be retained in the coffee grounds. Therefor, the coffee:water ratios are often expressed as the _input_ ratio -- that is, the amount of coffee added to the basket vs the amount of water **added to the reservoir**.
+The workflow of the Rapid Brewer is such that you tend to use all of the water that you add to the reservoir.  Most of it will pass through, but some water will be retained in the coffee grounds. Therefore, the coffee:water ratios are often expressed as the _input_ ratio -- that is, the amount of coffee added to the basket vs the amount of water **added to the reservoir**.
 
 This differs from what you might be used to with an espresso machine which is typically _output_ ratio -- that is, the coffee added to the portafilter vs the amount of water that ends up in the shot glass.  Terminology has not yet been nailed down, but this might be considered the _yield_.  When dialing in a new coffee or comparing brews with other people (especially if they use a different type of machine), it will likely be more useful to compare the output ratio / yield.
 

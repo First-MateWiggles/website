@@ -115,6 +115,9 @@ A top filter (not necessarily paper) can help distribute the water for more unif
 
 The stock basket has a rather strange geometry with a 64.5mm inner diameter (ID) at the top and a 62.5mm ID at the bottom.  There is also a chamfer (or taper) at the bottom that narrows to 58mm.
 
+Purchasing Pre-cut Filters
+If you prefer to buy exact-fit filters, Good Brothers offers specific sizes: use Size J for the top and Size K for the bottom. Additionally, you can find filters from EAF members, such as wonderllama, in the marketplace section.
+
 If you want to simplify things, you can use a 2.5 inch diameter filter for both the top and the bottom.  There are [2.5](https://a.co/d/i94Qf1E) [inch](https://a.co/d/8SeC3oF) [circle](https://a.co/d/eUGcyiN) [punches](https://a.co/d/e8P4Tx6) available that people have had success with on chemex filters or, for an even simpler source, aeropress filters are 2.5 inches.
 
 You can also opt to use 58mm paper filters on the bottom and they'll cover the screen perfectly.
